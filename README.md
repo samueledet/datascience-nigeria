@@ -10,6 +10,9 @@ Learning Outcomes:
 2. Understanding the mathematics involved in the following dimensionality reduction techniques: PCA, LDA and Kernel PCA.
 3. How to implement PCA, LDA and Kernel PCA using scikit learn.
 
+Case study: 
+Default of credit card client datatset.
+
 Tools: 
 
 Featuretools  - To install - python -m pip install featuretools; Scikit learn, numpy, matplotlib, pandas etc.
